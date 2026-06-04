@@ -56,7 +56,7 @@ export default function Home() {
           </h1>
           <p className="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto">
             Explore curated collections of projects to enhance your development
-            skills
+            skills 
           </p>
         </div>
 
