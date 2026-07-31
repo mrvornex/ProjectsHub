@@ -4,7 +4,7 @@ import ReviewsSection from '../components/TestimonialList/TestimonialList'
 
 const TestimonialsPage = () => {
   return (
-    <div>
+    <div className='py-14'>
         <ReviewsSection maxReviews={50} />
 
     </div>

@@ -3,7 +3,8 @@ import About from '../components/About/About'
 
 const page = () => {
   return (
-    <div>
+    <div className='py-24'>
+
         <About />
     </div>
   )
