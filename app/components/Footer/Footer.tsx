@@ -37,7 +37,7 @@ export default function Footer() {
   ];
 
   const techStack = [
-    { icon: <FaReact />, label: "React" },
+    // { icon: <FaReact />, label: "React" },
     { icon: <SiNextdotjs />, label: "Next.js" },
     { icon: <SiTypescript />, label: "TypeScript" },
     { icon: <SiTailwindcss />, label: "Tailwind CSS" },
